@@ -12,4 +12,5 @@ India is near Sri Lanka and the Maldives;
 its Andaman and Nicobar Islands share a maritime border with Myanmar, Thailand, and Indonesia.
 '''
 match = re.search(pattern , text)
+re.match
 print(match)
